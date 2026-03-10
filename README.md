@@ -213,3 +213,13 @@ unread count = COUNT(*) WHERE message_id > last_read_message_id
 | follow_tb | 팔로우 관계 |
 
 ![DB ERD](./images/DB-ERD.png)
+
+---
+
+## 🔗 링크
+
+| 구분 | 링크 |
+| --- | --- |
+| 배포 (서비스) | https://routein.store |
+| Backend 레포 | https://github.com/Koreait-Triple-Stack/route_in_backend |
+| Frontend 레포 | https://github.com/Koreait-Triple-Stack/route_in_frontend |
