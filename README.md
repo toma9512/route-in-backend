@@ -211,3 +211,5 @@ unread count = COUNT(*) WHERE message_id > last_read_message_id
 | in_body_tb | 인바디 기록 |
 | attendance_tb | 출석 체크 |
 | follow_tb | 팔로우 관계 |
+
+![Alt text](./images/DB ERD.png)
